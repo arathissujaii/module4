@@ -1,0 +1,46 @@
+h2{
+    text-align: center;
+    color: brown;
+    font-size: 35pt;
+    font-style: italic;
+    margin-top: 30px;
+  }
+  h3{
+    text-align: center;
+    color: brown;
+    font-size: 25pt;
+    font-style: italic;
+  }
+  #back{
+    background-color: rgb(252, 250, 248);
+  }
+  .update{
+   font-size: 25px;
+   font-style: normal;
+   text-align: center;
+   color: sienna;
+   margin-top: -50px;
+   margin-right: 430px;
+  }
+  .delete{
+    font-size: 25px;
+    font-style: normal;
+    text-align: right;
+    color: sienna;
+    margin-top: -30px;
+   }
+   .add{
+    font-size: 25px;
+    font-style: normal;
+    text-align: left;
+    color: sienna;
+   }
+   .view{
+    font-size: 25px;
+    font-style: normal;
+    text-align: center;
+    color: sienna;
+    margin-left: 350px;
+    margin-top: -30px;
+   }
+   
